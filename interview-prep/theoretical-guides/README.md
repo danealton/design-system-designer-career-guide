@@ -16,7 +16,7 @@
 
 ### Приоритет 1 (Базовая база знаний)
 
-- [Design Tokens](design-tokens.md) - TODO
+- ✅ [Design Tokens](design-tokens.md) - готов
 - [Accessibility (WCAG, Inclusive Design)](accessibility.md) - TODO
 
 ### Приоритет 2 (Расширенная база)

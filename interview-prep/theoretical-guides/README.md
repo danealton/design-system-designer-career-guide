@@ -28,6 +28,8 @@
 ### Приоритет 3 (Дополнительные темы)
 
 - [Design Patterns](design-patterns.md) - TODO
+- [Responsive Design](responsive-design.md) - TODO
+- [RTL и Internationalization](rtl-internationalization.md) - TODO
 - [Performance Optimization](performance.md) - TODO
 - [API компонентов](api-components.md) - TODO
 
